@@ -8,7 +8,10 @@ module.exports = {
       true,
       { ignore: ["attribute", "class", "id"] },
     ],
-    "selector-type-no-unknown": [true, { ignore: ["custom-elements"] }],
+    "selector-type-no-unknown": [
+      true,
+      { ignore: ["custom-elements", "default-namespace"] },
+    ],
     "unit-no-unknown": [true, { ignoreUnits: ["rpx"] }],
   },
 };
