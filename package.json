@@ -1,0 +1,35 @@
+{
+  "name": "@modyqyw/stylelint-config-scss",
+  "version": "1.0.0",
+  "description": "An Stylelint shareable config for scss.",
+  "main": "index.js",
+  "keywords": [
+    "stylelint",
+    "config",
+    "scss"
+  ],
+  "author": "ModyQyW <wurui7@mail3.sysu.edu.cn>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Millcloud/stylelint-config-scss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Millcloud/stylelint-config-scss/issues"
+  },
+  "homepage": "https://github.com/Millcloud/stylelint-config-scss#readme",
+  "peerDependencies": {
+    "stylelint": "~13.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "stylelint-config-twbs-bootstrap": "^2.0.2"
+  },
+  "engines": {
+    "node": ">=10",
+    "npm": ">=6"
+  }
+}
