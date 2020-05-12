@@ -2,7 +2,7 @@ module.exports = {
   extends: ["stylelint-config-twbs-bootstrap/scss"],
   rules: {
     "comment-empty-line-before": [
-      "never",
+      "always",
       {
         except: ["first-nested"],
         ignore: ["after-comment", "stylelint-commands"],
