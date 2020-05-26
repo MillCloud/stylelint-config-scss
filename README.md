@@ -47,7 +47,7 @@ module.exports = {
   },
   "[scss]": {
     "editor.defaultFormatter": "stylelint.vscode-stylelint"
-  },
+  }
 }
 ```
 
