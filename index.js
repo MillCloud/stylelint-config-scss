@@ -13,6 +13,10 @@ module.exports = {
       true,
       { ignore: ["custom-elements", "default-namespace"] },
     ],
+    "selector-pseudo-element-no-unknown": [
+      true,
+      { ignorePseudoElements: ["/^v-/"] },
+    ],
     "unit-no-unknown": [true, { ignoreUnits: ["rpx"] }],
   },
 };
