@@ -9,13 +9,13 @@ module.exports = {
       true,
       { ignore: ["attribute", "class", "id"] },
     ],
-    "selector-type-no-unknown": [
-      true,
-      { ignore: ["custom-elements", "default-namespace"] },
-    ],
     "selector-pseudo-element-no-unknown": [
       true,
       { ignorePseudoElements: ["/^v-/"] },
+    ],
+    "selector-type-no-unknown": [
+      true,
+      { ignore: ["custom-elements", "default-namespace"] },
     ],
     "unit-no-unknown": [true, { ignoreUnits: ["rpx"] }],
   },
