@@ -53,11 +53,11 @@ module.exports = {
 
 ## More Config
 
-- [@modyqyw/stylelint-config-css](https://github.com/Millcloud/stylelint-config-css)
-- [@modyqyw/stylelint-config-less](https://github.com/Millcloud/stylelint-config-less)
+- [@modyqyw/stylelint-config-css](https://github.com/MillCloud/stylelint-config-css)
+- [@modyqyw/stylelint-config-less](https://github.com/MillCloud/stylelint-config-less)
 
 ## License
 
 [MIT](./LICENSE)
 
-Copyright (c) 2020-present Millcloud
+Copyright (c) 2020-present MillCloud

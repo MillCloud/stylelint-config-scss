@@ -8,16 +8,16 @@
     "scss",
     "miniprogram"
   ],
-  "homepage": "https://github.com/Millcloud/stylelint-config-scss#readme",
+  "homepage": "https://github.com/MillCloud/stylelint-config-scss#readme",
   "bugs": {
-    "url": "https://github.com/Millcloud/stylelint-config-scss/issues"
+    "url": "https://github.com/MillCloud/stylelint-config-scss/issues"
   },
   "license": "MIT",
   "author": "ModyQyW <wurui7@mail3.sysu.edu.cn>",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Millcloud/stylelint-config-scss.git"
+    "url": "git@github.com:MillCloud/stylelint-config-scss.git"
   },
   "dependencies": {
     "stylelint-config-twbs-bootstrap": "~2.0.0"
