@@ -1,6 +1,6 @@
 {
   "name": "@modyqyw/stylelint-config-scss",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "A Stylelint shareable config for scss. Also support miniprograms.",
   "keywords": [
     "stylelint",
