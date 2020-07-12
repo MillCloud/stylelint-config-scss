@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ["stylelint-config-twbs-bootstrap/scss"],
+  extends: ['stylelint-config-twbs-bootstrap/scss'],
   rules: {
     'comment-empty-line-before': null,
     'selector-no-qualifying-type': [true, { ignore: ['attribute', 'class', 'id'] }],
