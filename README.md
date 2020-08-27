@@ -7,13 +7,13 @@ A Stylelint shareable config for scss. Also support miniprograms.
 - Install the config.
 
 ```sh
-npm i stylelint@^13.0.0 @modyqyw/stylelint-config-scss@~1.0.0 -D
+npm i stylelint@~13.6.0 @modyqyw/stylelint-config-scss@~1.0.0 -D
 ```
 
 For yarn, run scripts below.
 
 ```sh
-yarn add stylelint@^13.0.0 @modyqyw/stylelint-config-scss@~1.0.0 -D
+yarn add stylelint@~13.6.0 @modyqyw/stylelint-config-scss@~1.0.0 -D
 ```
 
 - Set up.
