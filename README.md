@@ -1,3 +1,5 @@
+**DEPRECATED! Check [@modyqyw/stylelint-config](https://github.com/MillCloud/stylelint-config).**
+
 # @modyqyw/stylelint-config-scss
 
 A Stylelint shareable config for scss. Also support miniprograms.
